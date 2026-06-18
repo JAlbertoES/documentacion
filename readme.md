@@ -57,4 +57,5 @@ Hago una referencia [Enlace]
 |----------|---------|
 | Java     | 26      |
 | C#       | 15      |
-
+| PHP      | 16      |
+| JS       | 17      |
