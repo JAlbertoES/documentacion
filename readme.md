@@ -1,59 +1,20 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.
+# Presentación
 
-# Título 1
-## Título 2
-### Título 3
+### Jeinner Alberto Estrada Solano
 
-**Texto negrita**
+### Licenciado en Informática con Énfasis en Sistemas de Información 
 
-*Texto cursiva* 
+### Analista en la CCSS
 
->Cita --Aqúi la referencia
-
+### Contactos
 ~~~
-git init
-git add .
-gitt clone
-~~~
-
-### Listas ordenadas
-1. Java
-    1. Clases
-    2. Encapsulamiento
-        1. GET
-        2. POST 
-    3. Herencia
-2. Python
-3. C#
-
-### Listas desordenadas
-+ Valor 1
-+ Valor 2
-    + item 1
-    + item 2
-    + item 3
-+ Valor 3 
-
-### Links 
-[UCA](https://www.uca.ac.cr/ "Somos la UCA")
-
 <jestradas@uca.ac.cr>
 
-### Referencias
-Hago una referencia [Enlace]
+8888-1305
+~~~
 
-[Enlace]: https://www.uca.ac.cr/
+### Tecnologías
 
-### Imagenes
-![Imagen animadad](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM242NDRzeWk1MndrdnBtaDJqc3M0eTJtbm1tYWdpenNsOG12a3hzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Badges
-
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-### Tablas
-
-| Lenguaje | Versión |
-|----------|---------|
-| Java     | 26      |
 
